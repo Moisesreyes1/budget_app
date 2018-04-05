@@ -13,7 +13,7 @@ var UIController = (function() {
     var DOMstrings = {
         inputType: ".add__type",
         inputDescription: ".add__description",
-        inputValue: "add_value",
+        inputValue: ".add__value",
         inputBtn: ".add__btn"
     };
 
